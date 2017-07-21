@@ -1,0 +1,20 @@
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Form1.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Properties.Resources.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\bin\Debug\SporSalonuOtomasyonu.exe
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\bin\Debug\SporSalonuOtomasyonu.pdb
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.exe
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.pdb
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Admin.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Personel.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.HocaGirisi.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Kullanıcı.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.SporHocası.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.UyeGirisi.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.SekreterGirisi.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.AnasekreterSayfası.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.YenıHoca.resources
+C:\Users\KUBRA\documents\visual studio 2010\Projects\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.Yedek.resources
+F:\EN YENI\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.exe
+F:\EN YENI\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\x86\Debug\SporSalonuOtomasyonu.pdb
